@@ -1,19 +1,20 @@
-<h1 align="center">Hi 👋, I'm Iremide Adeboye</h1>
-<h3 align="center">A passionate Full Stack developer from Nigeria</h3>
+<h1 align="center">Hi there 👋, I'm Iremide Adeboye</h1>
+<h3 align="center">A passionate Full Stack developer</h3>
 
-- 🌱 I’m currently learning **Node.js, TypeScript and javaScript**
+- 🌱 Tech stack: **Dart, Flutter, Javascript, Typescript, Node.js**
 
-- 👯 I’m looking to collaborate on **Flutter and Node.js projects**
+- 👯 I’m looking to collaborate on any mobile and web projects, backend and frontend
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Reach me on [LinkedIn] (https://www.linkedin.com/in/iremide-adeboye-02b2b5206/) - Iremide Adeboye
 
-- 📫 How to reach me **iremideadeboye@gmail.com**
+- Gmail - iremideadeboye@gmail.com
+
+- Twitter(X) - @iremide__
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1J4wLwR5F3UqX4gE3LzwddbwvZhMbt0cg/view?usp=sharing](https://drive.google.com/file/d/1J4wLwR5F3UqX4gE3LzwddbwvZhMbt0cg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iremide adeboye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iremide adeboye" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/iremide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iremide" height="30" width="40" /></a>
 <a href="https://kaggle.com/iremide adeboye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iremide adeboye" height="30" width="40" /></a>
 </p>
