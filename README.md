@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on any mobile and web projects, backend and frontend
 
-- 💬 Reach me on [LinkedIn] (https://www.linkedin.com/in/iremide-adeboye-02b2b5206/) - Iremide Adeboye
+- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/iremide-adeboye-02b2b5206/) - Iremide Adeboye
 
 - Gmail - iremideadeboye@gmail.com
 
