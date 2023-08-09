@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iremide Adeboye</h1>
 <h3 align="center">A passionate Full Stack developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iremide-ds&label=Profile%20views&color=0e75b6&style=flat" alt="iremide-ds" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iremide-ds" alt="iremide-ds" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js, TypeScript and javaScript**
 
 - 👯 I’m looking to collaborate on **Flutter and Node.js projects**
