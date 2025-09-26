@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Iremide Adeboye</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
-- 🌱 Tech stack: **Dart, Flutter, Javascript, Typescript, Node.js**
+- 🌱 Programming languages: **Dart, Go, kotlin, Javascript**
 
-- 👯 I’m looking to collaborate on any mobile and web projects, backend and frontend
+- 🌱 Skilled in: **Flutter**
+
+- 👯 I’m looking to collaborate on any mobile and web projects, backend and/or frontend
 
 - 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/iremide-adeboye-02b2b5206/) - Iremide Adeboye
 
 - Gmail - iremideadeboye@gmail.com
 
 - Twitter(X) - @iremide__
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J4wLwR5F3UqX4gE3LzwddbwvZhMbt0cg/view?usp=sharing](https://drive.google.com/file/d/1J4wLwR5F3UqX4gE3LzwddbwvZhMbt0cg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
